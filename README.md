@@ -2,8 +2,7 @@
 
 ### Hey there! I'm Mohamed 👋
 
-![banner](https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:161b22&height=160&section=header&text=Mohamed%20Serroukh&fontSize=48&fontColor=e6edf3&fontAlignY=55&desc=Sysadmin%20·%20Networking%20·%20Cybersecurity&descAlignY=75&descSize=16&descColor=8b949e)
-
+![banner](./image.png)
 </div>
 
 <br>

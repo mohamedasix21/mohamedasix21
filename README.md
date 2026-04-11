@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-IT Systems & Network Administrator focused on **offensive/defensive security** and robust infrastructure. Currently managing IT operations at **Mataró Hospital**, where 24/7 availability and data integrity are top priorities.
+IT Systems & Network Administrator focused on **offensive/defensive security** and robust infrastructure.
 
 - 🏥 **Mission-Critical Environments** — Hands-on experience in Tier 2 support and clinical software deployment.
 - 🔐 **Advanced Security** — Implementing IDS (**Snort**), **PKI (Internal CA)** management, and System Hardening.
